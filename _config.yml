@@ -9,8 +9,8 @@ remote_theme: ankitsultana/researcher@gem
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/jmankewitz/personal-website"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/ankitsultana/researcher"
+footer_text: "Generated with Jekyll theme ankitsultana/researcher"
 
 sass:
     style: compressed
