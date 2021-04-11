@@ -27,7 +27,7 @@ My current work explores ambiguity and polysemy in child contexts: which word me
 ## Some Facts About Me
 * I use she/her and they/them pronouns. This means I am comfortable being referred to with either set of pronouns, and appreciate a mix of the two. For example you can say "Jess is cool; I heard they're from LA! She was just complaining about the traffic."
 * Before I was a researcher, I was a babysitter, an IT consultant, a dog trainer, a teacher-in-training, and, briefly, an aspiring astrobiologist. I'm proud of my varied background and am always happy to chat about it!
-* When I'm not staring at the computer, I'm usually knitting, cross stitching, bookbinding, printmaking, or picking up a new hobby of the month. I like say I'm a "Jack of all trades, master of one or two."
+* When I'm not staring at the computer, I'm usually knitting, cross stitching, bookbinding, printmaking, or picking up a new hobby of the month. I like to say I'm a "Jack of all trades, master of one or two."
 
 ## Collaboration
 
