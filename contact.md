@@ -2,20 +2,19 @@
 layout: default
 is_contact: true
 ---
+If you'd like to get in touch, email is best:
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [jmankewitz@stanford.edu](mailto:jmankewitz@stanford.edu)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Room 420-279  
+> 450 Jane Stanford Way  
+> Stanford, CA 94305
 >
-> London
->
-> United Kingdom
+> United States
 
 ---
 
