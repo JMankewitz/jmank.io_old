@@ -18,8 +18,9 @@ If you'd like to get in touch, email is best:
 
 ---
 
-## Social
+## Links
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. Twitter: [https://twitter.com/jmankewitz](https://twitter.com/jmankewitz)
+2. LinkedIn: [https://www.linkedin.com/in/jmankewitz/](https://www.linkedin.com/in/jmankewitz/)
+3. GitHub: [https://github.com/jmankewitz/](https://github.com/jmankewitz/)
+4. OSF: [https://osf.io/5v4wr](https://osf.io/5v4wr)

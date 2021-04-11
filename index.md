@@ -14,6 +14,7 @@ Hi! I'm Jess and I'm the current Lab Manager for the [Language and Cognition Lab
     <!-- Ready to use Font Awesome. Activate interlock. Dynotherms - connected. Infracells - up. Icons are go! -->
     <a href="https://twitter.com/jmankewitz"> <i class="fab fa-twitter fa-3x"></i> </a>
     <a href="https://github.com/jmankewitz/"> <i class="fab fa-github fa-3x"></i> </a>
+    <a href="https://www.linkedin.com/in/jmankewitz/"> <i class="fab fa-linkedin fa-3x"></i> </a>
     <a href="https://orcid.org/0000-0002-2393-4987"> <i class="fab fa-orcid fa-3x"></i> </a>
   </body>
 
