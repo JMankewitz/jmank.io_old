@@ -1,45 +1,33 @@
 ---
 layout: default
 ---
+<img class="profile-picture" src="images/image_person.png" onmouseover="this.src='images/me_icon.png'" onmouseout="this.src='images/image_person.png'" />
 
-## About Me
+Hi! I'm Jess and I'm the current Lab Manager for the [Language and Cognition Lab](http://langcog.stanford.edu/index.html) at [Stanford University](https://www.stanford.edu/). I graduated from UC Berkeley in 2020 with a B.A. in Cognitive Science. As an undergrad, I worked as an RA with Prof. Mahesh Srinivasan and [Dr. Stephan Meylan](https://stephanmeylan.com/) in the [Language and Cognitive Development Lab](https://lcdlab.berkeley.edu/).
 
-<img class="profile-picture" src="sherlock.jpg">
+<head>
+    <!-- Place your kit's code here -->
+    <script src="https://kit.fontawesome.com/3f886daa7f.js" crossorigin="anonymous"></script>
+  </head>
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+  <body>
+    <!-- Ready to use Font Awesome. Activate interlock. Dynotherms - connected. Infracells - up. Icons are go! -->
+    <a href="https://twitter.com/jmankewitz"> <i class="fab fa-twitter fa-3x"></i> </a>
+    <a href="https://github.com/jmankewitz/"> <i class="fab fa-github fa-3x"></i> </a>
+    <a href="https://orcid.org/0000-0002-2393-4987"> <i class="fab fa-orcid fa-3x"></i> </a>
+  </body>
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I'm most excited when studying how children learn to communicate and interact with the world around them. I'm also curious about how words and meanings are generated and how they shift and evolve through communication. Broadly, I'm interested in the intersection between semantics, pragmatics, and the acquisition of the two. I like to approach these questions with computational models, cleverly designed experiments, and publicly available resources and datasets.
 
-## Publications
+My current work explores ambiguity and polysemy in child contexts: which word meanings are children exposed to, and how do they use polysemy and ambiguity in their own speech?
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Some Facts About Me
+* I use she/her and they/them pronouns. This means I am comfortable being referred to with either set of pronouns, and appreciate a mix of the two. For example you can say "Jess is cool; I heard they're from LA! She was just complaining about the traffic."
+* Before I was a researcher, I was a babysitter, an IT consultant, a dog trainer, a teacher-in-training, and, briefly, an aspiring astrobiologist. I'm proud of my varied background and am always happy to chat about it!
+* When I'm not staring at the computer, I'm usually knitting, cross stitching, bookbinding, printmaking, or picking up a new hobby of the month. I like say I'm a "Jack of all trades, master of one or two."
 
-## Typography
+## Collaboration
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+I am most proud of the work I've done in collaboration with others. Science is inherently collaborative, and my experience has been no exception. These days, I work most frequently and closely with [Michael C. Frank](https://web.stanford.edu/~mcfrank/) (Stanford), [Virginia Marchman](https://profiles.stanford.edu/virginia-marchman) (Stanford), [George Kachergis](http://www.kachergis.com/) (Stanford), [Mika Braginsky](https://mikabr.io/) (MIT), [Stephan Meylan](https://stephanmeylan.com/) (MIT and Duke), [Sammy Floyd](https://www.sammyfloyd.com/) (Princeton), [Hugh Rabagliati](https://www.ed.ac.uk/profile/hugh-rabagliati) (Edinburgh), [Mahesh Srinivasan](https://psychology.berkeley.edu/people/mahesh-srinivasan) (UC Berkeley), and [Sathvik Nair](https://sathvikn.github.io/) (UC Berkeley)

@@ -36,6 +36,7 @@
         padding: 2px 8px 2px 8px;
         font-style: italic;
     }
+
     .profile-picture {
         height: $image-size;
         width: $image-size;
@@ -54,7 +55,15 @@
         }
     }
     img {
-        text-align: center;
-        width: 100%;
+        //text-align: center;
+        //width: 100%;
     }
+
+table.inv_table {
+  //border-color: $accent;
+  //border-style: none!important;
+ border-style : hidden!important;
+}
+
+
 }

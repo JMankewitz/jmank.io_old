@@ -1,14 +1,15 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Jessica Mankewitz
+url: "https://www.jmankewitz.com/"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
+remote_theme: ankitsultana/researcher@gem
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+footer_url: "https://github.com/jmankewitz/personal-website"
 footer_text: "Page design by Ankit Sultana"
 
 sass:
@@ -17,8 +18,12 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "/"
+# - name: "Research"
+#   link: "/research"
+# - name: "Publications"
+#   link: "/pubs"
+# - name: "Resume"
+#   link: "resume.pdf"
  - name: "Contact"
    link: "contact"
